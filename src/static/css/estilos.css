@@ -169,3 +169,10 @@ a:hover {
   background-color: transparent;
   border: 1px solid black;
 }
+
+
+.imgDeseos{
+  width: 50%;
+  height: auto;
+  border-radius: 50%;
+}
